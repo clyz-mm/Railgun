@@ -13,7 +13,7 @@ arduino程序，可直接烧录。
 
 - 制作过程留影
 
-![0](https://s2.ax1x.com/2019/08/28/m7tT3Q.md.jpg)
+![0](https://s2.ax1x.com/2019/08/28/m7aBNV.md.jpg)
 
 - 作品展示  
 
@@ -25,8 +25,8 @@ arduino程序，可直接烧录。
 
 - 自动追踪射击操作演示
 
-![6](https://s2.ax1x.com/2019/08/28/m7lOY9.gif)
+![点击查看动图](https://s2.ax1x.com/2019/08/28/m7lOY9.gif)
 
 - 摇摆设计操作演示    
 
-![7](https://s2.ax1x.com/2019/08/28/m7lvS1.gif)  
+[点击查看动图](https://s2.ax1x.com/2019/08/28/m7lvS1.gif)  
